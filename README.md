@@ -8,7 +8,7 @@ The integrator is given by the following expression
 
 Where the ![\textbf{u}_i](https://render.githubusercontent.com/render/math?math=%5Ctextbf%7Bu%7D_i) are the analogous to the midpoint rule for the case of noncanonical Hamiltonians, e.g spin systems defined on the spheres product ![(S^2)^N](https://render.githubusercontent.com/render/math?math=(S%5E2)%5EN), and the index 'i' refers to space whereas 'n' refers to time. They are written as
 
-![\textbf{u}_i =\frac{ \textbf{s}_{i,n} + \textbf{s}_{i,n+1}}{\lVert \textbf{s}_{i,n} + \textbf{s}_{i,n+1}}](https://render.githubusercontent.com/render/math?math=%5Ctextbf%7Bu%7D_i%20%3D%5Cfrac%7B%20%5Ctextbf%7Bs%7D_%7Bi%2Cn%7D%20%2B%20%5Ctextbf%7Bs%7D_%7Bi%2Cn%2B1%7D%7D%7B%5ClVert%20%5Ctextbf%7Bs%7D_%7Bi%2Cn%7D%20%2B%20%5Ctextbf%7Bs%7D_%7Bi%2Cn%2B1%7D%7D)
+![\textbf{u}_i =\frac{ \textbf{s}_{i,n} + \textbf{s}_{i,n+1}}{\lVert \textbf{s}_{i,n} + \textbf{s}_{i,n+1}\rVert}](https://render.githubusercontent.com/render/math?math=%5Ctextbf%7Bu%7D_i%20%3D%5Cfrac%7B%20%5Ctextbf%7Bs%7D_%7Bi%2Cn%7D%20%2B%20%5Ctextbf%7Bs%7D_%7Bi%2Cn%2B1%7D%7D%7B%5ClVert%20%5Ctextbf%7Bs%7D_%7Bi%2Cn%7D%20%2B%20%5Ctextbf%7Bs%7D_%7Bi%2Cn%2B1%7D%7D)
 
 And the general equation we are solving is a particular case of Nambu system, which to the less mathematically inclined, in this case is simply given by the precession of a vector field about an effective Hamiltonian field, namely
 
